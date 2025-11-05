@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+
+# Environments
+env/
+venv/
+.venv/
+tf_m1_env/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+nohup.out
+
+# Data and models
+*.h5
+*.pkl
+*.joblib
+*.csv
+*.json
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache
+*.cache/
+.cache/
+__cache__/
+
+# TensorBoard and temp files
+runs/
+tmp/
+temp/
+
+# Virtual Machine
+*.vdi
+*.vbox*
+*.vagrant
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local testing
+test_results/
+*.pytest_cache/
+.coverage
+
+# Misc
+*.swp
+*.swo
